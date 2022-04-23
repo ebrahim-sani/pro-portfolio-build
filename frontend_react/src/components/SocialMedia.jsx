@@ -1,5 +1,5 @@
 import React from "react";
-import { BsInstagram } from "react-icons/bs";
+import { GrInstagram } from "react-icons/gr";
 import { FaGithub } from "react-icons/fa";
 import { SiUpwork } from "react-icons/si";
 
@@ -13,7 +13,7 @@ const SocialMedia = () => {
         <FaGithub />
       </div>
       <div>
-        <BsInstagram />
+        <GrInstagram />
       </div>
     </div>
   );
